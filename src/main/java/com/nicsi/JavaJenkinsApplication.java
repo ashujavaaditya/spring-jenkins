@@ -12,7 +12,7 @@ public class JavaJenkinsApplication
 {
 
 	public static Logger logger = LoggerFactory.getLogger(JavaJenkinsApplication.class);
-	  
+	   
 	@PostConstruct
 	public void intt()
 	{

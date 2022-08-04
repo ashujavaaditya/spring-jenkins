@@ -18,7 +18,7 @@ class JavaJenkinsApplicationTests
 	@Test
 	void contextLoads() 
 	{
-		logger.info("Test Case excuted...");
+		logger.info("Test Case excuted..."); 
 		assertEquals(true, true);
 	}
 

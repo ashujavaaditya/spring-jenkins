@@ -15,7 +15,7 @@ public class JavaJenkinsApplication
 	        
 	@PostConstruct
 	public void intt()
-	{
+	{ 
 		logger.info("Application Started...");
 	}
 	public static void main(String[] args) 
